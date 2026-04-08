@@ -1,0 +1,14 @@
+site_name: ePiE Manual
+
+nav:
+  - Getting started: index.md
+  - Running ePiE:
+    - Step 1: step1.md
+    - Step 2: step2.md
+    - Step 3: step3.md
+  - About: about.md
+
+theme:
+  name: material
+  features:
+    - navigation.footer
